@@ -1,0 +1,1 @@
+This is a repository primarily for tracking issues with the VRChat world "Polyworld". Mostly for me to log and action them myself, but feel free to log any problems you see and I'll jump on them ASAP.
